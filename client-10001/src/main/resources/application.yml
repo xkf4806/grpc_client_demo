@@ -1,0 +1,5 @@
+grpc:
+  port: 50001
+  negotiationtype: PLAINTEXT
+rollsite:
+  url: localhost:9370
